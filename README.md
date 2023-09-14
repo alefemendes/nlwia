@@ -4,9 +4,9 @@
 ![preview](./.github/preview.png)
 
 # Projeto 
-> Construído no evento Next Level Week da Rocketseat. Aplicação que possibilita através de uma URL de shorts do youtube, por meio de IA, obter um resumo do vídeo. 
+> Construído no evento Next Level Week da Rocketseat. Aplicação que possibilita, através de uma URL de shorts do youtube, obter um resumo do vídeo por meio de uma IA. 
 
-[🔗Clique aqui para acessar](https://alefemendes.github.io/mini-potifolio-mapadev-week-2/)
+[🔗Clique aqui para acessar](https://alefemendes.github.io/nlwia/)
 
 ## 🌐 Tecnologias 💻
 
